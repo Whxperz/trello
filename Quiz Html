@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Jayasri's Webpage Design</title>	
+<link rel="stylesheet" href="style_color.css" type="text/css">
+<body>
+   <header class="page-header">
+    <h1 style="font-size:20px;color:white">Navigation</h1>
+</header>
+<div class="container">
+    <div class="grid-container">
+	<div style="background-color:green;border:3px solid black;color:white;font-size:20px">Section 1</div>
+	<div style="background-color:blue;border:3px solid black;color:white;font-size:20px">Section 2</div>
+		</div>
+    <div class="grid-container-ex">
+	<div style="background-color:Orange;border:3px solid black;color:white;font-size:20px">Section 3</div>
+	</div>
+</div>
+<footer>
+   <p style="font-size:20px;color:white">Footer</p>
+</footer>
+</body>
+</html>
