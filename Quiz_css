@@ -7,21 +7,26 @@ body {
         width:  90vw;
 		height: 200vw;
     }
-header {
+.parent {
 		background-color:red;
 		border: 0.1px solid black;
+		font-size:1em;
+		color:white;
 }
-footer{
+.footer{
 		background-color:red;
 		border: 0.1px solid black;
+		font-size:1em;
+		color:white;
 }
-.grid-container {
+.section1 {
 		display: grid;
 		grid-template-columns: auto auto;
+		border:3px solid black;
 		width:99vw;
 		height:30vw;
 }
-.grid-container-ex {
+.section3 {
 		display: grid;
 		grid-template-columns: auto;
 		width:49.5vw;
